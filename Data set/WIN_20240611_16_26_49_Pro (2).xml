@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Live_Traget_img(New)</folder>
+	<filename>WIN_20240611_16_26_49_Pro (2).jpg</filename>
+	<path>C:\Live_Traget_img(New)\WIN_20240611_16_26_49_Pro (2).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SU_30</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>884</xmin>
+			<ymin>529</ymin>
+			<xmax>934</xmax>
+			<ymax>542</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>SU_30</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1024</xmin>
+			<ymin>472</ymin>
+			<xmax>1068</xmax>
+			<ymax>490</ymax>
+		</bndbox>
+	</object>
+</annotation>
